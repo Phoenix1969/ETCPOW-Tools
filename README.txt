@@ -10,6 +10,7 @@ restart node
 
 RESTORE YOUR NODE (RestoreMyNode.bat)
 THIS IS IN THE EVENT OF POWER FAILURE AND YOU ARE UNABLE TO GET THE LAUNCHER TO START
+you must make sure that both your ETC balance backup and transaction count backup files exist before running this script
 shut geth windows
 RIGHT CLICK RESTOREmyNODE file and run AS ADMINISTRATOR
 reboot the computer & restart node
