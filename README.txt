@@ -1,12 +1,9 @@
 INSTALL PYTHON WITH THE 'ADD PYTHON TO PATH" Box checked
 
-
 TUNING UTILITY:
 Stop node, close geth.
-install the python with "Add python to path" checked
-and then run TuneMyNode AS ADMIN.
+RunTuneMyNode AS ADMINISTRATOR.
 restart node
-
 
 RESTORE YOUR NODE (RestoreMyNode.bat)
 THIS IS IN THE EVENT OF POWER FAILURE AND YOU ARE UNABLE TO GET THE LAUNCHER TO START
