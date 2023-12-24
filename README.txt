@@ -2,7 +2,7 @@ INSTALL PYTHON WITH THE 'ADD PYTHON TO PATH" Box checked
 
 TUNING UTILITY:
 Stop node, close geth.
-RunTuneMyNode AS ADMINISTRATOR.
+RIGHT CLICK and RunTuneMyNode AS ADMINISTRATOR.
 restart node
 
 RESTORE YOUR NODE (RestoreMyNode.bat)
