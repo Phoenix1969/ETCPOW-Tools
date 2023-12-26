@@ -20,6 +20,6 @@ shut geth windows
 RIGHT CLICK RESTOREmyNODE file and run AS ADMINISTRATOR
 
 reboot the computer & restart node
-
+______________________________________________
 
 TIP CREATOR: 0x6f1BC68CBb7C19c263d9EBC708c139be1c48c636
