@@ -1,6 +1,6 @@
 INSTALL PYTHON WITH THE 'ADD PYTHON TO PATH" Box checked
 https://github.com/Phoenix1969/ETCPOW-Tools/blob/main/path.jpg?raw=true
-
+![example](https://github.com/Phoenix1969/ETCPOW-Tools/blob/main/path.jpg?raw=true)
 TUNING UTILITY: "TuneMyNode.bat"
 Stop node, close geth.
 RIGHT CLICK and RunTuneMyNode AS ADMINISTRATOR.
