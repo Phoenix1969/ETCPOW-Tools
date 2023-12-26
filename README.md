@@ -7,6 +7,8 @@ Stop node, close geth.
 RIGHT CLICK and RunTuneMyNode AS ADMINISTRATOR.
 restart node
 
+
+
 RESTORE YOUR NODE (RestoreMyNode.bat)
 THIS IS IN THE EVENT OF POWER FAILURE AND YOU ARE UNABLE TO GET THE LAUNCHER TO START
 you must make sure that both your ETC balance backup and transaction count backup files exist before running this script
