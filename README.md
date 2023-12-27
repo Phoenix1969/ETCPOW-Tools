@@ -17,7 +17,7 @@ TOOL 2: RESTORE YOUR NODE (RestoreMyNode.bat)
 
 THIS IS IN THE EVENT OF POWER FAILURE AND YOU ARE UNABLE TO GET THE LAUNCHER TO START. THIS IS NOT A NODE TUNER, IT IS A SEPERATE TOOL.
 
-you must make sure that both your ETC balance backup and transaction count backup files exist before running this script. If by chance you did not have backups available before running the script, the 2 originals will be in the recycle bin as a saftey net. Note: a node that has run for more than 5 minutes should have the two .bak files
+you must make sure that both your ETCpow_balance.bak and transaction_count.bak files exist before running this script. If by chance you did not have backups available before running the script, the 2 originals will be in the recycle bin as a saftey net. Note: a node that has run for more than 5 minutes should have the two .bak files
 
 shut geth windows
 
