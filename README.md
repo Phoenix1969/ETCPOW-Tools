@@ -21,7 +21,7 @@ you must make sure that both your ETCpow_balance.bak and transaction_count.bak f
 
 shut geth windows
 
-RIGHT CLICK RESTOREmyNODE file and run AS ADMINISTRATOR
+RIGHT CLICK "RESTOREmyNODE.bat" file and run AS ADMINISTRATOR
 
 reboot the computer & restart node
 ______________________________________________
