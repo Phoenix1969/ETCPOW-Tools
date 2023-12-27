@@ -1,4 +1,4 @@
-FIRSTLY INSTALL PYTHON WITH THE 'ADD PYTHON TO PATH" Box checked
+FIRSTLY INSTALL PYTHON WITH THE 'ADD PYTHON TO PATH" Box checked (IT COMES IN THE PACKAGE)
 
 ![path](https://github.com/Phoenix1969/ETCPOW-Tools/assets/18568844/cb4bf589-cd26-4358-95aa-43663f3597f7)
 ______________________________
