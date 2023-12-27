@@ -5,7 +5,7 @@ ______________________________
 TOOL 1: TUNING UTILITY: (TuneMyNode.bat)
 Stop node, close geth.
 
-RIGHT CLICK and RunTuneMyNode AS ADMINISTRATOR.
+RIGHT CLICK and Run "TuneMyNode.bat" AS ADMINISTRATOR.
 
 restart node
 
