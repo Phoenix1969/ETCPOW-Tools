@@ -4,7 +4,9 @@ INSTALL PYTHON WITH THE 'ADD PYTHON TO PATH" Box checked
 ______________________________
 TOOL 1: TUNING UTILITY: (TuneMyNode.bat)
 Stop node, close geth.
+
 RIGHT CLICK and RunTuneMyNode AS ADMINISTRATOR.
+
 restart node
 
 _____________________________________________
