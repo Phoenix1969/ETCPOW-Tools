@@ -7,7 +7,7 @@ Stop node, close geth.
 
 RIGHT CLICK and Run "TuneMyNode.bat" AS ADMINISTRATOR.
 
-restart node
+restart node & enjoy
 
 _____________________________________________
 _____________________________________________
