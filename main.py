@@ -8,7 +8,7 @@ from tqdm import tqdm
 # Constants
 TARGET_NODES = 50
 PING_TIMEOUT = 1.0
-THREADS = 10
+THREADS = 3
 API_URL = 'https://api.etcnodes.org/peers?all=true'
 NODES_FILE = "found_nodes.txt"
 BATCH_FILE = "START_GETH_FAST_NODE.bat"
