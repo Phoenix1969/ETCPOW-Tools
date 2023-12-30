@@ -13,7 +13,6 @@ API_URL = 'https://api.etcnodes.org/peers?all=true'
 NODES_FILE = "found_nodes.txt"
 BATCH_FILE = "START_GETH_FAST_NODE.bat"
 CONFIG_FILE = "config.toml"
-STATIC_NODES_FILE = "static_nodes.json"
 
 def fetch_all_nodes():
     try:
@@ -77,14 +76,6 @@ def move_files_and_cleanup():
     for file in [BATCH_FILE, CONFIG_FILE]:
         if os.path.exists(file):
             shutil.move(file, os.path.join(destination_dir, file))
-
-    static_nodes_path = os.path.join(destination_dir, STATIC_NODES_FILE)
-    try:
-        if os.path.exists(static_nodes_path):
-            os.remove(static_nodes_path)
-            print(f"Deleted {STATIC_NODES_FILE}")
-    except Exception as e:
-        print(f"Error deleting {STATIC_NODES_FILE}: {e}")
 
 def main():
     all_nodes = fetch_all_nodes()
