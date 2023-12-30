@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 # Constants
 TARGET_NODES = 50
-PING_TIMEOUT = 1.0
+PING_TIMEOUT = 2.0
 THREADS = 3
 API_URL = 'https://api.etcnodes.org/peers?all=true'
 NODES_FILE = "found_nodes.txt"
